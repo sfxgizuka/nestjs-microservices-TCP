@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../analytics-api"
+		},
+		{
+			"path": "../communication-api"
+		}
+	],
+	"settings": {}
+}
